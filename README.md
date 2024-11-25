@@ -4,9 +4,8 @@
 
 ---
 
+<img width="1426" alt="ppt" src="ppt.png">
 <img width="1427" alt="front1" src="https://github.com/user-attachments/assets/55feb9af-9717-497a-b25f-417a49f917b4">
-<img width="1426" alt="front2" src="https://github.com/user-attachments/assets/94849857-af7c-42c9-9d93-297dfad748a1">
-
 
 ---
 
